@@ -1,4 +1,4 @@
-# Frontend-Mentor Challenge Static Job Listing
+# Frontend-Mentor Challenge Ip Address Tracker App
 
 Challenge solved by [@aemzayn](https://github.com/aemzayn)
 
